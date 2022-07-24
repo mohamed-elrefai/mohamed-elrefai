@@ -12,7 +12,7 @@
 const Mohamed_Mostafa = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Go"],
-    askMeAbout: ["web dev", "app dev"],
+    askMeAbout: ["web dev"],
     technologies: {
           frontEnd: {
               js: ["Vue", "React", "Next", "Nuxt"],
