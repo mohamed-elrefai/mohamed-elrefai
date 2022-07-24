@@ -11,20 +11,20 @@
 ```javascript
 const Mohamed_Mostafa = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "Go", "Java"],
+    code: ["Javascript", "Go"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Next", "Nuxt"],
-            css: ["Tailwind", "UnoCss", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "nodemon"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDB", "MySql", "firebase"],
-        misc: ["Socket.IO", "selenium", "open-cv", "mediapipe"]
-    },
+          frontEnd: {
+              js: ["Vue", "React", "Next", "Nuxt"],
+              css: ["Tailwind", "UnoCss", "bootstrap"]
+          },
+          backEnd: {
+              js: ["node", "express", "nodemon"],
+          },
+          devOps: ["AWS", "Docker🐳"],
+          databases: ["mongoDB", "MySql", "firebase"],
+          misc: ["Socket.IO", "selenium", "open-cv", "mediapipe"]
+     },
     architecture: ["Progressive web applications", "Dynamic web applications", "Single page applications"],
     currentProject: "Surprise comming soon",
     funFact: "There are two ways to write error-free code; only the third one works"
